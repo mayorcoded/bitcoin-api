@@ -1,1 +1,1 @@
-# bitcoin-api
+# bitcoin-api-package
